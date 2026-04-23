@@ -13,11 +13,10 @@
 </p>
 
 <p align="center">
-    <img width="700" src="https://raw.githubusercontent.com/ramonclaudio/Google-Reverse-Image-Search/main/.github/logo.png">
+    <img width="700" src="https://raw.githubusercontent.com/ramonclaudio/Google-Reverse-Image-Search/main/.github/assets/logo.png">
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Google+Reverse+Image+Search&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRamon Claudio%2FGoogle-Reverse-Image-Search%2Fmain%2F.github%2Fversion.json" alt="Version">
 </p>
 
 ## Overview
